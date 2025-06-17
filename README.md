@@ -23,7 +23,8 @@ A simple Currency Converter app built using **HTML**, **CSS**, and **JavaScript*
 ```text
 ├── index.html
 ├── style.css
-├── script.js
+├── app.js
+├── code.js
 ├── screenshot.png
 ```
 ---
